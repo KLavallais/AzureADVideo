@@ -1,7 +1,7 @@
 # Azure/AD Video
 # Mastering Active Directory & Azure: Permissions, Security Groups, and PowerShell Scripts
 
-[![Watch the video](https://github.com/KLavallais/KLavallais/blob/main/images/Automating%20Employee%20Onboarding.png)](https://youtu.be/4OCqiQdUeMQ)
+[![Watch the video](https://github.com/KLavallais/KLavallais/blob/main/images/Mastering%20AD%20and%20Azure.png)](https://youtu.be/j_g_Btgh_dE)
 
 Welcome to our in-depth tutorial where we dive into the essentials of managing permissions, security groups, and utilizing PowerShell within Microsoft Azure's Active Directory. In this video, our expert demonstrator navigates through the creation and management of user permissions, showcasing the practical application of these skills on virtual machines within the Azure environment.
 
